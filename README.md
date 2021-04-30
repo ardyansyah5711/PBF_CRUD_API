@@ -1,6 +1,10 @@
 # MODUL 12
 
+<<<<<<< HEAD
 ## Ardyansyah Vira B
+=======
+
+>>>>>>> c81a960c96991522ecc5f7ef2dc25244d04d6ae7
 
 # Getting Started with Create React App
 
