@@ -1,0 +1,20 @@
+{
+    "mahasiswa": [
+        {
+            "NIM": 1841720180,
+            "nama": "Ardyansysah Vira B",
+            "alamat": "Jl. Panglima Sudirman no 100 Malang",
+            "hp": "083552637482",
+            "angkatan": 2018,
+            "status": "aktif"
+        },
+        {
+            "NIM": 197152738,
+            "nama": "Hayoo",
+            "alamat": "Jl. Suka Cita",
+            "hp": "081627831",
+            "angkatan": 2017,
+            "status": "lulus"
+        }
+    ]
+}
